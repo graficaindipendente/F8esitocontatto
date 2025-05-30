@@ -80,6 +80,6 @@ ApriFile:
 
 ControllaAggiornamenti:
 {
-    Run, https://example.com/
+    Run, https://github.com/graficaindipendente/F8esitocontatto
     return
 }
